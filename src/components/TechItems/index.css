@@ -1,0 +1,19 @@
+.tech-list {
+  list-style-type: none;
+  width: 200px;
+  display: flex;
+  margin: 15px;
+  margin-bottom: 5%;
+  align-items: center;
+}
+
+.tech-images {
+  width: 70px;
+}
+.names {
+  color: #475569;
+  font-size: 22px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  margin-left: 10px;
+}
